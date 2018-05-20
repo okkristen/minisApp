@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/2048/index/index",
+    "pages/2048/2048/2048",
+    "pages/drawGame/index/index",
+    "pages/drawGame/game/game",
+    "pages/plane/plain/plain",
+    "pages/rank/index/index",
+    "pages/rank/game/game",
+    "pages/bird/bird/bird"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

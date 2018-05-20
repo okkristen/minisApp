@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <block>
+      <image bindtap="goto2048" class="userinfo-avatar" src="../../img/2048/logo.png" background-size="cover"></image>
+       <image bindtap="gotoDrawGame" class="userinfo-avatar" src="../drawGame/images/cardbg.jpg" background-size="cover"></image>
+        <image bindtap="gotoPlane" class="userinfo-avatar" src="../../img/plane/images/me.png" background-size="cover"></image>
+         <image bindtap="gotoRank" class="userinfo-avatar" src="../../img/rank/images/chip-1.png" background-size="cover"></image>
+          <image bindtap="gotoBird" class="userinfo-avatar" src="../../img/bird/images/0.gif" background-size="cover"></image>
+    </block>
+  </view>
+</view>
